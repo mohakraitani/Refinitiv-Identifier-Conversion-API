@@ -92,5 +92,6 @@ This project is licensed under the MIT License.
 - This repository is an independent, personal open-source project and is **not affiliated with, endorsed by, or officially supported by Refinitiv, LSEG, or the author’s institution**.
 - The code is provided for general use only and comes **without any warranty or guarantees**.
 - Users are responsible for ensuring compliance with applicable **Refinitiv/LSEG data usage and licensing terms**.
+- No proprietary data is distributed with this repository.
 
 
